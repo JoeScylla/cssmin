@@ -1,5 +1,8 @@
 # What is CssMin? #
 
+**WARNING: This repository is not maintained anymore because of time constraints. There
+were no updates for a long time. USE AT YOUR OWN RISK.**
+
 CssMin is a css parser and minfier. It minifies css by removing unneeded whitespace character, 
 comments, empty blocks and empty declarations. In addition declaration values can get rewritten to 
 shorter notation if available. The minification if configurable.
@@ -21,11 +24,11 @@ The source css as string.
 
 **array $filters**
 
-The filter configuration as array (optional). See Filter Configuration
+The filter configuration as array (optional).
 
 **array $plugins**
 
-The plugin configuration as array (optional). See: Plugin Configuration
+The plugin configuration as array (optional).
 
 ## Example ##
 
